@@ -2,7 +2,7 @@
 
 This is the Hindbrain of the program
 It tells the system how to execute the functions
-comment
+
 """
 
 from Motor_Cortex import *
